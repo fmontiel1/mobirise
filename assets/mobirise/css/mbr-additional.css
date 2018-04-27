@@ -1460,10 +1460,10 @@ body {
   color: #cc2952;
 }
 .cid-qQrY6Huav1 .mbr-section-subtitle P {
-  color: #073b4c;
+  color: #ff3366;
 }
 .cid-qQrY6Huav1 .mbr-section-title I {
-  color: #7f1933;
+  color: #073b4c;
 }
 .cid-qQs5gub4M2 {
   padding-top: 90px;
@@ -1540,7 +1540,8 @@ body {
 .cid-qQsknoKkPe {
   padding-top: 60px;
   padding-bottom: 75px;
-  background: #55b4d4;
+  background: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #f7ed4a);
 }
 .cid-qQsknoKkPe .image-block {
   margin: auto;
@@ -1626,6 +1627,28 @@ body {
 }
 .cid-qQielaZZjl P {
   color: #232323;
+}
+.cid-qQsvoheDbO {
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #ff3366);
+}
+.cid-qQsvoheDbO .image-block {
+  margin: auto;
+}
+.cid-qQsvoheDbO figcaption {
+  position: relative;
+}
+.cid-qQsvoheDbO figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qQsvoheDbO .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qQsa8tU9AS {
   padding-top: 60px;
